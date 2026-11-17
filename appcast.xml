@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Mochi Press</title>
+        <item>
+            <title>Mochi Press 1.1</title>
+            <pubDate>Tue, 17 Nov 2026 13:13:59 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+<ul>
+<li>Mochi Press is now free.</li>
+<li>New Finder Quick Actions: right-click any file → Quick Actions → Compress or Extract with Mochi Press.</li>
+<li>Fixed: the Services menu items sometimes did nothing.</li>
+<li>Automatic updates: Mochi Press now tells you when a new version is out.</li>
+<li>Settings → About shows the version and more apps from Monokern.</li>
+</ul>
+            ]]></description>
+            <enclosure url="https://github.com/halebop17/mochi-releases/releases/download/v1.1/Mochi-Press-1.1.dmg" type="application/octet-stream" sparkle:edSignature="G2tzpxjW+oiaT0PLcxREigo7SZDt/1a1yD0cp9a4n28qofMGEGqPOHJ0EfEH80bStW1gAq/03pwZmDYHgtPXAw==" length="10991958"/>
+        </item>
+    </channel>
+</rss>
